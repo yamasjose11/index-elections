@@ -7,13 +7,13 @@
 ## How I came about choosing this project?
 
 ## Data Collection:
-  Three open source datasets were collected from [Yahoo Finance](https://finance.yahoo.com/), in order to help my question towards my proposal listed in the abstract section.
+  Three open source datasets were collected from [Yahoo Finance](https://finance.yahoo.com/), in order to explore my question listed in the abstract section.
   
-  * Dow Jones dataset contained 9000+ entries, 7 columns and is adjustable back to 1985 - 2020.
+  * Dow Jones dataset contains 9000+ entries, 7 columns and is adjustable back to 1985 to 2020.
   
-  * Nasdaq dataset contained 12000+ entries, 7 columns and is adjustable back to 1971 - 2020.
+  * Nasdaq dataset contains 12000+ entries, 7 columns and is adjustable back to 1971 to 2020.
   
-  * S&P 500 dataset contained 23000+ entries, 7 columns and is adjustable back to 1927 - 2020.
+  * S&P 500 dataset contains 23000+ entries, 7 columns and is adjustable back to 1927 to 2020.
 
 ## Tech Stack:
 
