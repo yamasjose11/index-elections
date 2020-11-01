@@ -34,12 +34,13 @@
 I chose to go with a very strict significance level of 0.01, given the fact that there is various external factors not being taken into considered for this project. For the proposed hypothesis I will be conducting a Welch's t-test to test for the sample mean a period* before election and after.
 
   Null Hypothesis: The adjusted closing price mean after presidential elections is different than before elections.
+  
   Alt. Hypothesis: The adjusted closing price mean after presidential elections is **not** different than before elections.
 
 ## What Does the Data Say?
   After conduction my tests before and after election years for all presidents after 1995. I have come to the conclusion that more data is required and additional statistical tests are required. The following table will show my results for each president across the Dow, Nasdaq and S&P500. 
   
-   ![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2013-37-15.png?raw=true) 
+   ![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2015-53-14.png?raw=true) 
   
 ## Future Development:
   For future development points it would be very cool to test for corrolation across markets such as other major indices, cryptocurrencies, bonds and more. It would also be very cool to implement machine learning techniques to measure volatility and read market structure. 
@@ -59,6 +60,10 @@ I chose to go with a very strict significance level of 0.01, given the fact that
     
     
 ## Contact Info:
+
+[Send Email](mailto:yamasjose11@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/jose-yamas/)
 
 ________________________________
 Proposed outline of Capstone Expectations Worksheet 
