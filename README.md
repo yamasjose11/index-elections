@@ -9,17 +9,17 @@
 ## Data Collection:
   Three open source datasets were collected from [Yahoo Finance](https://finance.yahoo.com/), in order to explore my question listed in the abstract section.
   
-  * Dow Jones dataset contains:
+  * **Dow Jones dataset contains:**
     * 9000+ entries, 7 columns 
     * Adjustable back to 1985 to 2020
     * 748.3 kB file size
   
-  * Nasdaq dataset contains:
+  * **Nasdaq dataset contains:**
     * 12000+ entries, 7 columns 
     * Adjustable back to 1971 to 2020
     * 957.8 kB file size
   
-  * S&P 500 dataset contains:
+  * **S&P 500 dataset contains:**
     * 23000+ entries, 7 columns 
     * Adjustable back to 1927 to 2020
     * 1.7 MB file size
@@ -39,13 +39,13 @@
   
 ## References:
 ##### Dow Jones Database:
-  [Yahoo Finance. Dow Jones Industrial Average (^DJI). Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI)
+  [Yahoo Finance. *Dow Jones Industrial Average (^DJI)*. Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI)
     
 ##### NASDAQ Database:
-  [Yahoo Finance. NASDAQ Composite (^IXIC). Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC)
+  [Yahoo Finance. *NASDAQ Composite (^IXIC)*. Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC)
     
 ##### S&P 500 Database:
-  [Yahoo Finance. S&P 500 (^GSPC). Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC)
+  [Yahoo Finance. *S&P 500 (^GSPC)*. Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC)
     
     
 ## Contact Info:
