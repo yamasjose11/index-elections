@@ -33,13 +33,16 @@
 ## Statistical Approach:
 I chose to go with a very strict significance level of 0.01, given the fact that there is various external factors not being taken into considered for this project. For the proposed hypothesis I will be conducting a Welch's t-test to test for the sample mean a period* before election and after.
 
-  Null Hypothesis: The adjusted closing price mean after presidential elections is different than before elections.
+  **Null Hypothesis:** The adjusted closing price mean after presidential elections is different than before elections.
   
-  Alt. Hypothesis: The adjusted closing price mean after presidential elections is **not** different than before elections.
+  **Alt. Hypothesis:** The adjusted closing price mean after presidential elections is **not** different than before elections.
 
 ## What Does the Data Say?
   After conduction my tests before and after election years for all presidents after 1995. I have come to the conclusion that more data is required and additional statistical tests are required. The following table will show my results for each president across the Dow, Nasdaq and S&P500. 
   
+  <p align="center">
+  <img width="460" height="300" src="https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2015-53-14.png?raw=true">
+  </p>
    ![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2015-53-14.png?raw=true) 
   
 ## Future Development:
@@ -57,8 +60,7 @@ I chose to go with a very strict significance level of 0.01, given the fact that
     
 **S&P 500 Database:**
   [Yahoo Finance. *S&P 500 (^GSPC)*. Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC)
-    
-    
+
 ## Contact Info:
 
 [Send Email](mailto:yamasjose11@gmail.com)
