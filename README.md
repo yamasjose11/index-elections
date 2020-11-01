@@ -22,21 +22,14 @@
   Thank you to the instructors at Galvanize Inc., Dan Rupp, Juliana Duncan, Justin Wallander and Zach Schuiz for their help and guidance during this project. Also, thank you to my classmates especially Hilmi Kilickaya and Vinay Vakharia for their comprehensive suggestions.
   
 ## References:
+##### Dow Jones Database:
   [Yahoo Finance. Dow Jones Industrial Average (^DJI). Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI)
     
+##### NASDAQ Database:
+  [Yahoo Finance. NASDAQ Composite (^IXIC). Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC)
     
-  Yahoo Finance. NASDAQ Composite (^IXIC), 
-  
-   https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC, 
-    
-   Accessed 26 October 2020.
-    
-    
-  Yahoo Finance. S&P 500 (^GSPC), 
-  
-   https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC, 
-    
-   Accessed 26 October 2020.
+##### S&P 500 Database:
+  [Yahoo Finance. S&P 500 (^GSPC). Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC)
     
     
 ## Contact Info:
