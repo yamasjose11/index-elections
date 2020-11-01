@@ -23,8 +23,8 @@
   
 ## References:
   [Yahoo Finance. Dow Jones Industrial Average (^DJI),\
-   https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI,\
-   Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI)
+   \t https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI,\
+   \t Accessed 26 October 2020.](https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI)
     
     
   Yahoo Finance. NASDAQ Composite (^IXIC), 
