@@ -9,7 +9,7 @@
 ## Data Collection:
 
 ## Tech Stack:
-  ![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2013-37-15.pngraw=true) 
+![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2013-37-15.pngraw=true) 
   
   ![alt text for img] (https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2013-37-15.png)
 
