@@ -23,13 +23,23 @@
   
 ## References:
   Yahoo Finance. Dow Jones Industrial Average (^DJI), 
+  
     https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI, 
+    
     Accessed 26 October 2020.
+    
+    
   Yahoo Finance. NASDAQ Composite (^IXIC), 
+  
     https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC, 
+    
     Accessed 26 October 2020.
+    
+    
   Yahoo Finance. S&P 500 (^GSPC), 
+  
     https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC, 
+    
     Accessed 26 October 2020.
     
     
