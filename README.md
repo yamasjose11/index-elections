@@ -9,9 +9,8 @@
 ## Data Collection:
 
 ## Tech Stack:
+
   ![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2013-37-15.png?raw=true) 
-  
-  ![alt text for img] (https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2013-37-15.png)
 
 ## Statistical Approach:
 
@@ -20,9 +19,20 @@
 ## Future Development:
 
 ## Awknowledgements:
-
+  Thank you to the instructors at Galvanize Inc., Dan Rupp, Juliana Duncan, Justin Wallander and Zach Schuiz for their help and guidance during this project. Also, thank you to my classmates especially Hilmi Kilickaya and Vinay Vakharia for their comprehensive suggestions.
+  
 ## References:
-
+  Yahoo Finance. Dow Jones Industrial Average (^DJI), 
+    https://finance.yahoo.com/quote/%5EDJI/history?p=%5EDJI, 
+    Accessed 26 October 2020.
+  Yahoo Finance. NASDAQ Composite (^IXIC), 
+    https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC, 
+    Accessed 26 October 2020.
+  Yahoo Finance. S&P 500 (^GSPC), 
+    https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC, 
+    Accessed 26 October 2020.
+    
+    
 ## Contact Info:
 
 ________________________________
