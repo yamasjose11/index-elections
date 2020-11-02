@@ -2,6 +2,7 @@
 
 ## Overview: 
   
+  It has overwhelmingly been seen that big events in the world can have a profound impact in the financial markets. Here I will be data munging to unpack and explore the changes in the three major indices in the U.S, the Dow Jones Industrial, NASDAQ and S&P500, to see if its sample mean change, before and after election year periods. I will proposing a hypothesis and in respect run a statistical test to help reject or fail to reject my hypothesis.
 
 ## Motivation:
 
@@ -37,7 +38,7 @@ I chose to go with a very strict significance level of 0.01, given the fact that
   **Alt. Hypothesis:** The adjusted closing price mean after presidential elections is **not** different than before elections.
 
 ## What Does the Data Say?
-  After conduction my tests before and after election years for all presidents after 1995. I have come to the conclusion that more data is required and additional statistical tests are required. The following table will show my results for each president across the Dow, Nasdaq and S&P500. 
+  After conducting my tests before and after election periods for all presidents after 1995. I have come to the conclusion that more data is required and additional statistical tests are required. The following table will show my results for each president across the Dow, Nasdaq and S&P500. 
   
   <p align="center">
   <img width="460" height="300" src="https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2015-53-14.png?raw=true">
