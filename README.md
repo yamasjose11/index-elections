@@ -1,10 +1,9 @@
 # Are Election Years the Best Time to Invest?
 
-## Abstract:
+## Overview: 
+  
 
-## Results:
-
-## How I came about choosing this project?
+## Motivation:
 
   I have always had a very deep rooted interest in finance and I thought it would be worth applying my techincal background skills from engineering to data science to approach this problem. With the help of my instructors at Galvanize Inc. I was able to get good guidance in how I should begin to approach this problem.
 
@@ -42,9 +41,9 @@ I chose to go with a very strict significance level of 0.01, given the fact that
   
   <p align="center">
   <img width="460" height="300" src="https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2015-53-14.png?raw=true">
+  <img width="460" height="300" src="https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%from%2020-10-30%11-50-58.png?raw=true">
   </p>
-   ![alt text](https://github.com/yamasjose11/index-elections/blob/main/images/Screenshot%20from%202020-11-01%2015-53-14.png?raw=true) 
-  
+  Screenshot from 2020-10-30 11-50-58.png
 ## Future Development:
   For future development points it would be very cool to test for corrolation across markets such as other major indices, cryptocurrencies, bonds and more. It would also be very cool to implement machine learning techniques to measure volatility and read market structure. 
 
